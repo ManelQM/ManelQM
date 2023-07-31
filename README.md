@@ -2,7 +2,7 @@
 
 # My name is Manel Montalbán and I´m a full stack software developer
 
-![GitHub Stars](https://img.shields.io/github/stars/Tu_Nombre?style=social)
+
 
 ## Desarrollador de Software
 
