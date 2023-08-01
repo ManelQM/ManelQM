@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hello! 👋 I'm Manel Montalbán Quesada
 
@@ -34,7 +33,7 @@ I'm excited to be a part of the GitHub community, where I can showcase my projec
 
 Thank you for visiting my profile! If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me. I look forward to connecting with individuals who share interests in technology, music, art, and anything fascinating in life.
 
-### Welcome to my world on GitHub!** 🚀
+# Welcome to my world on GitHub!** 🚀
 
 
 
