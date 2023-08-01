@@ -17,7 +17,9 @@ I have had the privilege of working in both the cement and naval industries, tak
 
 ## Beyond Technology
 
-Apart from my technical endeavors, I am also a passionate bassist and have a profound interest in music and graphic arts. I find music to be a powerful form of expression, which complements my technical focus and allows me to channel my creativity.
+I am also a passionate bassist and have a profound interest in music and graphic arts. I find music to be a powerful form of expression, which complements my technical focus and allows me to channel my creativity.
+
+Apart from my technical endeavors, I am an avid reader, constantly immersing myself in new philosophical trends and exploring the depths of artificial intelligence. I believe in staying informed about the latest advancements in both fields to broaden my perspectives and stay on top of the cutting-edge developments.
 
 ## GitHub & Collaboration
 
