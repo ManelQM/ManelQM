@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a passionate individual with a diverse background in Philosophy, Industrial Automation and Robotics, and Full Stack Development. As a licensed graduate in Philosophy and a certified technician in Industrial Automation and Robotics, I bring a unique blend of critical thinking and technical expertise to my work.
+I am a passionate individual with a diverse background in Philosophy, Industrial Automation and Robotics, and Full Stack Development. As a licensed graduate in Philosophy and a certified technician in Industrial Automation and Robotics, I bring a unique blend of critical thinking and technical expertise to my work. Also Spanish is my native language! 
 
 ## Skills & Languages
 
