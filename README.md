@@ -33,11 +33,13 @@ Thank you for visiting my profile! If you have any questions, suggestions, or wo
 ### Welcome to my world on GitHub!** 🚀
 
 
-## Desarrollador de Software
+## As a software developer
+
+
 
 ### Lenguajes de programación:
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](/ManelQM/icons/logo-javascript-logo-png-transparentj.png)
 
 ![HTML5](ruta-a-icono-html5.png) HTML - % de proyectos: XX%
 
