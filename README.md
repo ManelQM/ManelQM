@@ -36,7 +36,7 @@ Thank you for visiting my profile! If you have any questions, suggestions, or wo
 
 ### Lenguajes de programación:
 
-![JavaScript](ruta-a-icono-js.png) JavaScript - % de proyectos: XX%
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 ![HTML5](ruta-a-icono-html5.png) HTML - % de proyectos: XX%
 
