@@ -6,6 +6,10 @@
 
 I am a passionate individual with a diverse background in Philosophy, Industrial Automation and Robotics, and Full Stack Development. As a licensed graduate in Philosophy and a certified technician in Industrial Automation and Robotics, I bring a unique blend of critical thinking and technical expertise to my work. Also Spanish is my native language! 
 
+### Stack:
+
+![JavaScript](https://skillicons.dev/icons?i=js,html,css,docker,react,nodejs,redux,bootstrap,php,sequelize,mysql,aws) 
+
 ## Skills & Languages
 
 - **Full Stack Development**: I recently completed a bootcamp at GeeksHubs Academy to become a Full Stack Developer, where I honed my skills in front-end and back-end development.
@@ -33,9 +37,7 @@ Thank you for visiting my profile! If you have any questions, suggestions, or wo
 ### Welcome to my world on GitHub!** 🚀
 
 
-### Stack:
 
-![JavaScript](https://skillicons.dev/icons?i=js,html,css,docker,react,nodejs,redux,bootstrap,php,sequelize,mysql,aws) 
 
 
 
