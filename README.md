@@ -33,23 +33,9 @@ Thank you for visiting my profile! If you have any questions, suggestions, or wo
 ### Welcome to my world on GitHub!** 🚀
 
 
-## As a software developer
-
-
-
-### Lenguajes de programación:
-
-![JavaScript](/ManelQM/icons/logo-javascript-logo-png-transparentj.png)
-
-![HTML5](ruta-a-icono-html5.png) HTML - % de proyectos: XX%
-
-![CSS](ruta-a-icono-css.png) CSS - % de proyectos: XX%
-
-<!-- Repite este bloque para cada lenguaje que quieras mostrar -->
-
 ### Stack:
 
-![JavaScript](ruta-a-icono-js.png)
+![JavaScript](/ManelQM/icons/logo-javascript-logo-png-transparentj.png)
 
 ![CSS](ruta-a-icono-css.png)
 
