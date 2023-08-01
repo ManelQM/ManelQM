@@ -64,7 +64,8 @@ Thank you for visiting my profile! If you have any questions, suggestions, or wo
 
 ![MySQL](ruta-a-icono-mysql.png)
 
-![Docker](ruta-a-icono-docker.png)
+![Docker](https://img.shields.io/docker/image-size/:user/:repo/:tag
+)
 
 ![AWS](ruta-a-icono-aws.png)
 
