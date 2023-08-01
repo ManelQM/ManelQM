@@ -35,26 +35,7 @@ Thank you for visiting my profile! If you have any questions, suggestions, or wo
 
 ### Stack:
 
-![JavaScript](/ManelQM/icons/logo-javascript-logo-png-transparentj.png)
+![JavaScript](https://skillicons.dev/icons?i=js,html,css,docker,react,nodejs,redux,bootstrap,php,sequelize,mysql,aws) 
 
-![CSS](ruta-a-icono-css.png)
 
-![HTML5](ruta-a-icono-html5.png)
 
-![React](ruta-a-icono-react.png)
-
-![Redux](ruta-a-icono-redux.png)
-
-![Node.js](ruta-a-icono-nodejs.png)
-
-![Bootstrap](ruta-a-icono-bootstrap.png)
-
-![Sequelize](ruta-a-icono-sequelize.png)
-
-![MySQL](ruta-a-icono-mysql.png)
-
-![Docker](ruta-a-icono-docker.png)
-
-![AWS](ruta-a-icono-aws.png)
-
-<!-- Agrega más imágenes de los iconos de tus tecnologías del stack -->
