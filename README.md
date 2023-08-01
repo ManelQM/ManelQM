@@ -1,8 +1,5 @@
-### Hello cruel world!! 👋
 
-# My name is Manel Montalbán and I´m a full stack developer looking for my first job. Recently I obtained a certification on frontend and backend programing through geekshubs academy 
-
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Manel Montalbán Quesada
 
 ## About Me
 
