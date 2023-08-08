@@ -1,5 +1,5 @@
 
-# Hello! 👋 I'm Manel Montalbán Quesada
+# Hello! 👋 I'm Manel 
 
 ## About Me
 
